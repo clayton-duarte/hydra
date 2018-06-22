@@ -1,0 +1,14 @@
+{	
+	"name": "hydra",
+	"description": "none",
+	"version": "1.0.0",
+	"private": true,
+	"author": "clayton-duarte",
+	"workspaces": [
+		"packages/*"
+	],
+	"devDependencies": {
+		"lerna": "^2.11.0"
+	},
+	"license": "MIT"
+}
